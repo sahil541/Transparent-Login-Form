@@ -6,6 +6,11 @@
     font-family: 'Josefin Sans',sans-serif;
 }
 
+body{
+    background: url(car_background.jpg);
+    background-size: cover;
+}
+
 .main_div{
     width: 100%;
     height: 100vh;
